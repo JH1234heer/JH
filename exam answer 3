@@ -1,0 +1,18 @@
+exam answers day 3 
+
+"how many circles do you want" == 1
+'W'
+
+"draw circle"
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.color ("blue")
+myPen.forward(90)
+myPen.circle (100)
+
+myPen.color ("yellow")
+
+mypen.forward(100)
+myPen.circle(90)
